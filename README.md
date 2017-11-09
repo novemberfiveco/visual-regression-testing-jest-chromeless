@@ -1,6 +1,8 @@
 visual-regression-testing-jest-chromeless
 =========
-Visual regression testing using Jest, Chromeless and AWS Lambda. Link to blogpost: TODO
+Visual regression testing using Jest, Chromeless and AWS Lambda.
+
+ Blogpost: https://novemberfive.co/blog/visual-regression-testing-jest-chromeless-lambda/
 
 # Requirements
 - NodeJS version 6.x or greater
