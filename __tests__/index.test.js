@@ -8,7 +8,7 @@ afterAll(async () => { await teardown(chromeless) })
 
 test('+++ home renders correctly (visual)', async () => {
   const screenshotPath = await chromeless.goto(global.config.baseUrl).wait('.content').screenshot()
-  const screenshot = getFile(screenshotPath)
+  const screenshot = await getFile(screenshotPath)
   const customDiffConfig = {
     composeLeftToRight: true,
   }

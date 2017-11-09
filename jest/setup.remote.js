@@ -7,5 +7,5 @@ global.config = {
       apiKey: process.env.CHROMELESS_API_KEY,
     },
   },
-  baseUrl: 'http://novemberfiveco.github.io/visual-regression-testing',
+  baseUrl: 'http://novemberfiveco.github.io/visual-regression-testing-jest-chromeless/',
 }
