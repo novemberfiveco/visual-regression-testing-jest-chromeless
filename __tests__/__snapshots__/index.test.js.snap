@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`+++ home renders correctly 1`] = `"<h1>Welcome to React Static!</h1>"`;

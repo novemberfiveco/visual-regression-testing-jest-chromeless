@@ -1,0 +1,6 @@
+node_modules
+dist
+*.log
+.env
+
+__diff_output__
